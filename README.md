@@ -1,0 +1,1 @@
+# A-Novel-Technique-for-hand-gesture-to-speech-and-text-recogonition
